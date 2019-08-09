@@ -1,7 +1,5 @@
 # Entity Framework Code First Sample For absolute beginners
 
-# Steps 
-
 1- create console application  
 2- install Entity frame work from package manager consol   
 	```
