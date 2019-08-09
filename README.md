@@ -10,7 +10,7 @@
 4- add your model context and DBSets for your domain classes  
 5- add the connection string and attach providerName = "System.Data.SqlCleint" add the end of it  
 	the name for connection string can be the same name of context class name  
-	or you can change it and add  : base("name=(namehere)") after the class defination  
+	or you can change it and add  : base("name=(namehere)") on the class constructor  
 6- from package manager console enable , add migrationa  and update database  
 	```
 	-  enable-migrations  
