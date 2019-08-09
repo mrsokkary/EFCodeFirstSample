@@ -1,0 +1,14 @@
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.pdb
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.dll
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.xml
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csprojAssemblyReference.cache
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CoreCompileInputs.cache
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CopyComplete
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.pdb
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.Migrations.InitialModel.resources
+K:\Courses\Track\02 Udemy - Entity Framework in Depth The Complete Guide 2018-8\Projects\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.GenerateResource.cache
