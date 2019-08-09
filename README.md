@@ -7,6 +7,7 @@
 	```
 	install-package EntityFramwork  
 	```
+  
 3- add your domain classes with realtions  
 4- add your model context and DBSets for your domain classes  
 5- add the connection string and attach providerName = "System.Data.SqlCleint" add the end of it  
